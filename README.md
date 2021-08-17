@@ -33,9 +33,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="42px" src="https://user-images.githubusercontent.com/49625259/129708063-4ca261d4-a037-4ac5-af7d-80cf488e6de6.png" />
+<img align="left" alt="postgreSql" width="42px" src="https://user-images.githubusercontent.com/49625259/129708063-4ca261d4-a037-4ac5-af7d-80cf488e6de6.png" />
+<img align="left" alt="cSharp" width="42px" src="https://user-images.githubusercontent.com/49625259/129709237-5f7d777c-3dc9-4a41-9e3d-17c780bddbc1.png" />
+<img align="left" alt="php" width="42px" src="https://user-images.githubusercontent.com/49625259/129709170-dfe00bde-6620-4059-b466-738420e0e960.png" />
+<img align="left" alt="sendGrid" width="42px" src="https://user-images.githubusercontent.com/49625259/129709063-70661a98-98e9-4111-bff7-a9b1c9eaa7f2.png" />
 <br />
 <br />
+
 
 
 
