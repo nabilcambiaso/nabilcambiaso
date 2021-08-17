@@ -1,7 +1,7 @@
 ### Hi there, I'm Nabil - aka [th3Developer][website] 👋
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full stack Developer, and always a student to new techs!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
