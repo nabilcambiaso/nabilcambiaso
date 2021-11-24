@@ -4,7 +4,7 @@
 
 ## I'm a Full stack Developer, and always a student to new techs!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Java, JEE, Spring boot and Laravel.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to CODE and TRAIN / FITNESS
