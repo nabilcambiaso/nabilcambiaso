@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [http://cambiasonabil.netlify.app/](http://cambiasonabil.netlify.app/)
 
-- 👨🏽‍💻 I regularly write post on youtube [https://www.youtube.com/channel/UCGuhx0P1D0U-HEL9vMHQjMQ](https://www.youtube.com/channel/UCGuhx0P1D0U-HEL9vMHQjMQ)
-
 - 💬 Ask me about **React, React native, and react native expo ci/cd automation, deep linking ..**
 
 - 📫 How to reach me **nabilcambiaso@gmail.com , +212609495066**
@@ -23,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nabil cambiaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil cambiaso" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nabil-cambiaso-533b95193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil cambiaso" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11773199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11773199" height="30" width="40" /></a>
-<a href="https://fb.com/nabil cambiaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil cambiaso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/silent programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer" height="30" width="40" /></a>
+<a href="https://web.facebook.com/nabil.cambiaso.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil cambiaso" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGuhx0P1D0U-HEL9vMHQjMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilcambiaso&show_icons=true&locale=en" alt="nabilcambiaso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilcambiaso&" alt="nabilcambiaso" /></p>
+
+
