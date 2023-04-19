@@ -5,15 +5,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilcambiaso" alt="nabilcambiaso" /></a> </p>
 
-- 🔭 I’m currently working with **React, Angular, React-native (react-native cli, expo), GraphQL (Apollo, react-query), rest-api,(Redux, Rematch, Recoil) and more ..**
+- 🔭 I’m currently working with **React,AstroJS, React-native (Redux, Rematch), GraphQL, rest-api, and more ..**
 
-- 🌱 I’m currently learning **NextJS, SolidJS, CI/CD ...**
+- 🌱 I’m currently learning **A lot of stuff ...**
 
 - 👯 I’m looking to collaborate on **open source project and automations.**
 
-- 👨‍💻 All of my projects are available at [http://cambiasonabil.netlify.app/](http://cambiasonabil.netlify.app/)
+- 👨‍💻 Little bit about me [http://cambiasonabil.netlify.app/](http://cambiasonabil.netlify.app/)
 
-- 💬 Ask me about **React, React native, and react native expo ci/cd automation, deep linking ..**
+- 💬 Ask me about **React,AstroJS, GSAP, PostgreSQL, React native,github actions, ci/cd automation, deep linking ..**
 
 - 📫 How to reach me **nabilcambiaso@gmail.com , +212609495066**
 
