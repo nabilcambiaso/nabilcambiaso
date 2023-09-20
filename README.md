@@ -1,30 +1,35 @@
-<h1 align="center">Hi 👋, I'm Cambiaso Nabil</h1>
-<h3 align="center">A passionate Software engineer from Morocco</h3>
+<h1 align="center">👋 Hi, I'm Cambiaso Nabil</h1>
+<h3 align="center">Passionate Software Engineer and AWS Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabilcambiaso&label=Profile%20views&color=0e75b6&style=flat" alt="nabilcambiaso" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilcambiaso" alt="nabilcambiaso" /></a> </p>
 
-- 🔭 I’m currently working with **React,AstroJS, React-native (Redux, Rematch), GraphQL, rest-api, and more ..**
+<h2>About Me</h2>
 
-- 🌱 I’m currently learning **A lot of stuff ...**
+- 👨‍💻 I'm a dedicated Software Engineer and AWS enthusiast based in Morocco.
 
-- 👯 I’m looking to collaborate on **open source project and automations.**
+- 🔭 I specialize in web development using **React**, **Angular**, and more, crafting dynamic and user-friendly web applications.
 
-- 👨‍💻 Little bit about me [http://cambiasonabil.netlify.app/](http://cambiasonabil.netlify.app/)
+- 📱 I'm experienced in mobile app development with **React Native**, bringing ideas to life on iOS and Android platforms.
 
-- 💬 Ask me about **React,AstroJS, GSAP, PostgreSQL, React native,github actions, ci/cd automation, deep linking ..**
+- 💻 For desktop applications, I work with technologies like **ElectronJS** and **ADO.NET** to build powerful desktop software.
 
-- 📫 How to reach me **nabilcambiaso@gmail.com , +212609495066**
+- 🌱 I'm constantly learning and staying up-to-date with the latest technologies to enhance my skills.
 
-- ⚡ Fun fact **First solve the problem, then write the code.**
+- 💬 Feel free to ask me about **React**, **Angular**, **React Native**, **AWS**, **GitHub Actions**, **CI/CD automation**, and more.
 
-<h3 align="left">Connect with me:</h3>
+- 📫 You can reach me via email at **nabilcambiaso@gmail.com** or call me at **+212609495066**.
+
+- ⚡ Fun Fact: "First solve the problem, then write the code."
+
+<h2>Connect with Me</h2>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/nabil-cambiaso-533b95193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil cambiaso" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11773199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11773199" height="30" width="40" /></a>
-<a href="https://web.facebook.com/nabil.cambiaso.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil cambiaso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCGuhx0P1D0U-HEL9vMHQjMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nabil-cambiaso-533b95193/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil cambiaso" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/11773199" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11773199" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/nabil.cambiaso.5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil cambiaso" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCGuhx0P1D0U-HEL9vMHQjMQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silent programmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,5 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilcambiaso&show_icons=true&locale=en" alt="nabilcambiaso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilcambiaso&" alt="nabilcambiaso" /></p>
-
-
